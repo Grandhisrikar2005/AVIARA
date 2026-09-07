@@ -1,0 +1,44 @@
+{
+  "species": [
+    {
+      "common_name": "Asian Koel",
+      "scientific_name": "Eudynamys scolopaceus"
+    },
+    {
+      "common_name": "Common Myna",
+      "scientific_name": "Acridotheres tristis"
+    },
+    {
+      "common_name": "Red-vented Bulbul",
+      "scientific_name": "Pycnonotus cafer"
+    },
+    {
+      "common_name": "Common Tailorbird",
+      "scientific_name": "Orthotomus sutorius"
+    },
+    {
+      "common_name": "Rose-ringed Parakeet",
+      "scientific_name": "Psittacula krameri"
+    },
+    {
+      "common_name": "Indian Peafowl",
+      "scientific_name": "Pavo cristatus"
+    },
+    {
+      "common_name": "Greater Coucal",
+      "scientific_name": "Centropus sinensis"
+    },
+    {
+      "common_name": "White-throated Kingfisher",
+      "scientific_name": "Halcyon smyrnensis"
+    },
+    {
+      "common_name": "Black Kite",
+      "scientific_name": "Milvus migrans"
+    },
+    {
+      "common_name": "House Crow",
+      "scientific_name": "Corvus splendens"
+    }
+  ]
+}
